@@ -1,0 +1,5 @@
+﻿  wokerManager.cpp
+D:\LearnC++\Project1\Project1\wokerManager.cpp(31,1): error C2084: 函数“void WorkerManager::ExitSystem(void)”已有主体
+D:\LearnC++\Project1\Project1\wokerManager.cpp(26): message : 参见“ExitSystem”的前一个定义
+  职工管理系统.cpp
+  正在生成代码...
